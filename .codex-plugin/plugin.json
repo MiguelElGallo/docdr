@@ -1,0 +1,18 @@
+{
+  "name": "docdr",
+  "version": "0.1.0",
+  "description": "Write clear documentation that builds understanding one step at a time.",
+  "author": { "name": "Miguel Peredo" },
+  "repository": "https://github.com/MiguelElGallo/docdr",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "docdr",
+    "shortDescription": "Clear documentation, one step at a time.",
+    "longDescription": "Write and review tutorials, how-to guides, reference pages, and explanations with clear language and coherent examples.",
+    "developerName": "Miguel Peredo",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": ["Use docdr to improve the clarity of this documentation."],
+    "logo": "./assets/logo.png"
+  }
+}
