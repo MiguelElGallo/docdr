@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:03,999
+LLMs are very good at creating documentation.
+
+2
+00:00:04,000 --> 00:00:07,999
+They're also very good at creating slop.
+
+3
+00:00:08,000 --> 00:00:10,999
+The difference? Better guidance.
+One skill: docdr.
+
+4
+00:00:11,000 --> 00:00:17,499
+Same idea. Clearer words.
+Use --output to choose where to save the file.
+
+5
+00:00:17,500 --> 00:00:21,499
+Clear steps. Useful examples.
+The right structure.
+
+6
+00:00:21,500 --> 00:00:28,000
+Documentation Doctor: docdr.
+Guide your LLM toward better documentation.
+Get the skill. Link in the post.
