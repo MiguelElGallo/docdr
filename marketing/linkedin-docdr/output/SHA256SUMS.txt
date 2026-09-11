@@ -1,0 +1,2 @@
+92a6f8286aa543a048bcb673469c3fac534c6f6f54b68858e6ba3b5c83ffc805  output/docdr-linkedin-1080x1350.mp4
+82c1815f7cbd413885be3f64560e20beacb5637925a6c653fc445f551b2df498  output/docdr-linkedin-thumbnail.png

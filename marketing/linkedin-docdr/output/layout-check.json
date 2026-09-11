@@ -1,0 +1,221 @@
+[
+  [
+    {
+      "text": "THE PROMISE",
+      "x": 96,
+      "y": 315,
+      "right": 984,
+      "bottom": 343,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "LLMs are very\ngood at creating\ndocumentation.",
+      "x": 96,
+      "y": 379,
+      "right": 984,
+      "bottom": 651.15625,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "YOUR NEXT DRAFT\n✓",
+      "x": 96,
+      "y": 721.15625,
+      "right": 984,
+      "bottom": 931.15625,
+      "scroll": 886,
+      "width": 886
+    }
+  ],
+  [
+    {
+      "text": "THE CATCH",
+      "x": 96,
+      "y": 315,
+      "right": 984,
+      "bottom": 343,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "They’re also\nvery good at\ncreating slop.",
+      "x": 96,
+      "y": 379,
+      "right": 984,
+      "bottom": 731.796875,
+      "scroll": 888,
+      "width": 888
+    }
+  ],
+  [
+    {
+      "text": "THE DIFFERENCE?",
+      "x": 96,
+      "y": 350,
+      "right": 984,
+      "bottom": 378,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "Better\nguidance.",
+      "x": 96,
+      "y": 414,
+      "right": 984,
+      "bottom": 642.9375,
+      "scroll": 888,
+      "width": 888
+    }
+  ],
+  [
+    {
+      "text": "Same idea.\nClearer words.",
+      "x": 96,
+      "y": 252,
+      "right": 984,
+      "bottom": 403.1875,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "WORDY\n\nUtilize --output to specify\nthe destination of the\ngenerated artifact.",
+      "x": 96,
+      "y": 433.1875,
+      "right": 984,
+      "bottom": 692.6875,
+      "scroll": 886,
+      "width": 886
+    },
+    {
+      "text": "Utilize --output to specify\nthe destination of the\ngenerated artifact.",
+      "x": 131,
+      "y": 504.1875,
+      "right": 949,
+      "bottom": 661.6875,
+      "scroll": 818,
+      "width": 818
+    },
+    {
+      "text": "CLEAR\n\nUse --output to choose\nwhere to save the file.",
+      "x": 96,
+      "y": 716.6875,
+      "right": 984,
+      "bottom": 925.6875,
+      "scroll": 884,
+      "width": 884
+    },
+    {
+      "text": "Use --output to choose\nwhere to save the file.",
+      "x": 132,
+      "y": 788.6875,
+      "right": 948,
+      "bottom": 893.6875,
+      "scroll": 816,
+      "width": 816
+    },
+    {
+      "text": "Illustrative rewrite",
+      "x": 96,
+      "y": 947.6875,
+      "right": 984,
+      "bottom": 986.6875,
+      "scroll": 888,
+      "width": 888
+    }
+  ],
+  [
+    {
+      "text": "GIVE YOUR LLM DIRECTION",
+      "x": 96,
+      "y": 296,
+      "right": 984,
+      "bottom": 324,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "Help it write\ndocs people\ncan follow.",
+      "x": 96,
+      "y": 360,
+      "right": 984,
+      "bottom": 608.8125,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "1\nClear steps.",
+      "x": 96,
+      "y": 673.8125,
+      "right": 984,
+      "bottom": 777.8125,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "2\nUseful examples.",
+      "x": 96,
+      "y": 777.8125,
+      "right": 984,
+      "bottom": 881.8125,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "3\nThe right structure.",
+      "x": 96,
+      "y": 881.8125,
+      "right": 984,
+      "bottom": 985.8125,
+      "scroll": 888,
+      "width": 888
+    }
+  ],
+  [
+    {
+      "text": "docdr",
+      "x": 407.5,
+      "y": 218,
+      "right": 672.5,
+      "bottom": 483,
+      "scroll": 265,
+      "width": 265
+    },
+    {
+      "text": "Documentation\nDoctor",
+      "x": 96,
+      "y": 497,
+      "right": 984,
+      "bottom": 655.0625,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "Guide your LLM toward\nbetter documentation.",
+      "x": 96,
+      "y": 689.0625,
+      "right": 984,
+      "bottom": 792.25,
+      "scroll": 888,
+      "width": 888
+    },
+    {
+      "text": "Get docdr ↗",
+      "x": 380.984375,
+      "y": 844.25,
+      "right": 699.015625,
+      "bottom": 946.25,
+      "scroll": 318,
+      "width": 318
+    },
+    {
+      "text": "Link in the post",
+      "x": 96,
+      "y": 968.25,
+      "right": 984,
+      "bottom": 995.25,
+      "scroll": 888,
+      "width": 888
+    }
+  ]
+]

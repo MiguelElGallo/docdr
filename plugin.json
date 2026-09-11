@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "docdr",
+  "version": "0.1.0",
+  "description": "Write clear documentation that builds understanding one step at a time.",
+  "author": { "name": "Miguel Peredo" },
+  "repository": "https://github.com/MiguelElGallo/docdr",
+  "keywords": ["documentation", "writing", "diataxis", "docdr"]
+}
